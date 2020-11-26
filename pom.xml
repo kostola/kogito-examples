@@ -150,6 +150,8 @@
         <activeByDefault>true</activeByDefault>
       </activation>
       <modules>
+        <module>custom-event-consumer-quarkus</module>
+        <module>custom-event-consumer-springboot</module>
         <module>decisiontable-quarkus-example</module>
         <module>decisiontable-springboot-example</module>
         <module>dmn-listener-quarkus</module>
