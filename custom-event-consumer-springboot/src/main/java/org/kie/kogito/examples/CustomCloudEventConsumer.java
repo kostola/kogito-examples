@@ -1,4 +1,4 @@
-/*
+/**
  *  Copyright 2020 Red Hat, Inc. and/or its affiliates.
  *
  *  Licensed under the Apache License, Version 2.0 (the "License");
@@ -18,7 +18,7 @@ package org.kie.kogito.examples;
 
 import javax.annotation.PostConstruct;
 
-import org.kie.kogito.services.event.CloudEventReceiver;
+import org.kie.kogito.event.CloudEventReceiver;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

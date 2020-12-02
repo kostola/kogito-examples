@@ -1,4 +1,4 @@
-/*
+/**
  *  Copyright 2020 Red Hat, Inc. and/or its affiliates.
  *
  *  Licensed under the Apache License, Version 2.0 (the "License");
@@ -20,7 +20,7 @@ import javax.annotation.PostConstruct;
 import javax.inject.Inject;
 
 import io.quarkus.runtime.Startup;
-import org.kie.kogito.services.event.CloudEventReceiver;
+import org.kie.kogito.event.CloudEventReceiver;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
