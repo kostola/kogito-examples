@@ -131,6 +131,7 @@
         <module>dmn-pmml-springboot-example</module>
         <module>dmn-quarkus-example</module>
         <module>dmn-drools-quarkus-metrics</module>
+        <module>dmn-drools-process-quarkus-metrics</module>
         <module>dmn-drools-springboot-metrics</module>
         <module>dmn-springboot-example</module>
         <module>dmn-tracing-quarkus</module>
@@ -261,6 +262,7 @@
         <module>dmn-pmml-quarkus-example</module>
         <module>dmn-quarkus-example</module>
         <module>dmn-drools-quarkus-metrics</module>
+        <module>dmn-drools-process-quarkus-metrics</module>
         <module>dmn-tracing-quarkus</module>
         <module>flexible-process-quarkus</module>
         <module>kogito-travel-agency</module>
@@ -310,6 +312,7 @@
         <module>dmn-pmml-springboot-example</module>
         <module>dmn-quarkus-example</module>
         <module>dmn-drools-quarkus-metrics</module>
+        <module>dmn-drools-process-quarkus-metrics</module>
         <module>dmn-drools-springboot-metrics</module>
         <module>dmn-springboot-example</module>
         <module>pmml-quarkus-example</module>
